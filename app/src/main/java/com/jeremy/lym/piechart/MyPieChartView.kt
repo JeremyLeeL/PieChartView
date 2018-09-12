@@ -9,6 +9,7 @@ import android.view.View
 
 /**
  * Created by liyimin on 2018/8/30.
+ * GitHub：https://github.com/JeremyLeeL
  */
 class MyPieChartView @JvmOverloads constructor(
         context: Context,
